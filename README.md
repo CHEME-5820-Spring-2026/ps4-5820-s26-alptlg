@@ -40,3 +40,5 @@ This takes several hours depending on hardware.
 
 ## Dependencies
 All dependencies are managed via `Project.toml`. The primary package is [`VLDataScienceMachineLearningPackage.jl`](https://github.com/varnerlab/VLDataScienceMachineLearningPackage.jl). Local corrected implementations of `sample` and `learn` in `src/Compute.jl` override the package versions.
+
+Alpomer Tolga Aksit
